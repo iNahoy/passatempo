@@ -1,12 +1,9 @@
 print("Digite o primeiro valor | Superior Esquerdo: ")
 n1 = input()
-
 print("Digite o segundo valor | Inferior Esquerdo: ")
 n2 = input()
-
 print("Digite o terceiro valor | Superior Direito: ")
 n3 = input()
-
 print("Digite o quarto valor | Inferior Direito: ")
 n4 = input()
 
