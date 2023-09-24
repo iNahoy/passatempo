@@ -1,7 +1,4 @@
-package controle;
-
 import java.util.Scanner;
-
 public class Tabuada{
 	public static void main(String[] args) {
 		Scanner entry = new Scanner(System.in);
@@ -19,5 +16,5 @@ public class Tabuada{
             contador++;
         }
         entry.close();
-	}
+    }
 }
